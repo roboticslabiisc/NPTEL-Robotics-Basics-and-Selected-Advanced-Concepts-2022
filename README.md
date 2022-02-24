@@ -2,8 +2,8 @@
 This GitHub repository contains the codes and plots for the assignment problems for the NPTEL course on **Robotics Basics and Selected Advanced Concepts** taught by **[Prof. Ashitava Ghosal](https://mecheng.iisc.ac.in/~asitava/)** from the Department of Mechanical Engineering, Indian Institute of Science, Bangalore.
 
 Link to the course :
-* [Swayam](https://onlinecourses.nptel.ac.in/noc21_me37/preview)
-* [NPTEL](https://nptel.ac.in/courses/112/108/112108298/)
+* [Swayam](https://onlinecourses.nptel.ac.in/noc22_me39/preview)
+* [NPTEL](https://nptel.ac.in/courses/112108298)
 
 Nomenclature of MATLAB files(.m):
 
